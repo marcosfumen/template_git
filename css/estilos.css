@@ -1,0 +1,38 @@
+
+.content {
+    text-align: center;
+}
+.logo {
+    width: 174px;
+    height: 191px;
+
+}
+
+.navigation li{
+    list-style: none;
+    display: inline-block;
+    padding: 5px;
+    box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+    border-radius: 20px;
+    background-color: white;
+}
+
+.navigation li:hover{
+background-color: #7F7F7F;  
+}
+
+.navigation li:hover a{
+color:white;
+
+}
+.navigation li a{
+    color: black;
+    text-decoration: none;
+
+    }
+
+footer{
+
+    text-align: center;
+}
+
